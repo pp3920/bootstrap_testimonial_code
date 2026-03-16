@@ -1,0 +1,5 @@
+During this project, I faced several challenges related to maintaining proper padding, margin, and alignment across the layout. It was sometimes difficult to ensure that all the testimonial sections were evenly spaced and aligned correctly with the target design. Small differences in spacing often caused the layout to look slightly different from the expected result.
+
+To solve these challenges, I used the browser Developer Tools to inspect elements and understand where the spacing and alignment issues were occurring. This allowed me to experiment with different CSS values and gradually adjust the layout until it looked more consistent. Debugging with Developer Tools helped me better understand how different CSS properties affect the structure of the page.
+
+If I had more time to improve the project, I would focus on making the layout even closer to the original design. I would also spend more time researching and practicing Flexbox and CSS Grid so I could create a more accurate and responsive layout.
